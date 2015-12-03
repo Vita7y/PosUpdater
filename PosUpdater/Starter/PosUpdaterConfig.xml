@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PosUpdaterConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RelaunchApplication>true</RelaunchApplication>
+  <UpdaterDoLogging>true</UpdaterDoLogging>
+  <UpdaterShowConsole>false</UpdaterShowConsole>
+  <FeedFilePath>C:\POS\New\UpdateFeed.xml</FeedFilePath>
+  <ConnectionString></ConnectionString>
+  <DbUpdatePath>Data Source=.\sqlexpress; Initial Catalog=AxRetailPOS; Integrated Security=SSPI; Persist Security Info=false; Pooling=false;</DbUpdatePath>
+  <RestartVisitCounter>true</RestartVisitCounter>
+  <RestartPos>true</RestartPos>
+</PosUpdaterConfig>
